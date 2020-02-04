@@ -1,0 +1,52 @@
+/* karla-regular - latin_latin-ext */
+@font-face {
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 400;
+  src: url('karla/karlaregular.eot'); /* IE9 Compat Modes */
+  src: local('Karla'), local('Karla-Regular'),
+       url('karla/karlaregular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('karla/karlaregular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('karla/karlaregular.woff') format('woff'), /* Modern Browsers */
+       url('karla/karlaregular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('karla/karlaregular.svg#Karla') format('svg'); /* Legacy iOS */
+}
+/* karla-700 - latin_latin-ext */
+@font-face {
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 700;
+  src: url('karla/karla700.eot'); /* IE9 Compat Modes */
+  src: local('Karla Bold'), local('Karla-Bold'),
+       url('karla/karla700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('karla/karla700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('karla/karla700.woff') format('woff'), /* Modern Browsers */
+       url('karla/karla700.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('karla/karla700.svg#Karla') format('svg'); /* Legacy iOS */
+}
+/* karla-700italic - latin_latin-ext */
+@font-face {
+  font-family: 'Karla';
+  font-style: italic;
+  font-weight: 700;
+  src: url('karla/karla700italic.eot'); /* IE9 Compat Modes */
+  src: local('Karla Bold Italic'), local('Karla-BoldItalic'),
+       url('karla/karla700italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('karla/karla700italic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('karla/karla700italic.woff') format('woff'), /* Modern Browsers */
+       url('karla/karla700italic.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('karla/karla700italic.svg#Karla') format('svg'); /* Legacy iOS */
+}
+/* karla-italic - latin_latin-ext */
+@font-face {
+  font-family: 'Karla';
+  font-style: italic;
+  font-weight: 400;
+  src: url('karla/karlaitalic.eot'); /* IE9 Compat Modes */
+  src: local('Karla Italic'), local('Karla-Italic'),
+       url('karla/karlaitalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('karla/karlaitalic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('karla/karlaitalic.woff') format('woff'), /* Modern Browsers */
+       url('karla/karlaitalic.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('karla/karlaitalic.svg#Karla') format('svg'); /* Legacy iOS */
+}
